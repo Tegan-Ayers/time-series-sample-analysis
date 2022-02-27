@@ -1,2 +1,3 @@
 # time-series-sample-analysis
-sample of time series signal processing techniques on PPG, ECG and ABP biosignals
+
+A short jupyter notebook to demonstrate some techniques I typically use to transform biosignal data, such as PPG, ECG and ABP (arterial blood pressure). Libraries utilized include numpy, scipy, heartpy and matplotlib.
